@@ -20,7 +20,7 @@ jobs:
 
       - name: Build the site
         run: hugo --minify -d ./website_output  # 這會生成靜態網站到 website_output 目錄
-        working-directory: ./nuriePublicWebSite
+        working-directory: ./nuriePublicWebSite # 權限
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
