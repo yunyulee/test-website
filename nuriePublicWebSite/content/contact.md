@@ -7,7 +7,7 @@ id = "contact"
 
 [TBD...]
 
-[checking...]
+[TBD...]
 
 
 #### ✉️ Contact partnership@nurie.ai to get more information on the project 😀
