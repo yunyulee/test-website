@@ -451,7 +451,7 @@ id = ""
     enableRecaptchaInContactForm = false
     # googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>[TBD...]</p>"
+    about_us = "<p>주식회사 누리에에이아이<br>대표이사 : 도영태, 최수희<br>주소 : (22007) 인천광역시 연수구 인천타워대로 323 A동 2001~2006호 A197(송도동, 송도센트로드)<br>사업자등록번호 : 628-81-03518<br>이메일 : webmaster@nurie.ai</p>"
     copyright = "© 2024 Nurie AI Inc. All Rights Reserved."
 
     # Format dates with Go's time formatting
@@ -465,10 +465,10 @@ id = ""
     logo = "img/NURIE AI_With Logo_Transparent.png"
     logo_small = "img/NURIE AI_With Logo_Transparent.png"
     contact_url = "/contact"
-    address = """<p class="text-uppercase"><strong>Nurie AI Co., Ltd.</strong>
-        <br>A197, Units 2001~2006, Tower A, Songdo Centroad, 323 Incheon Tower-daero, Yeonsu-gu, Incheon, 22007, Republic of Korea
+    address = """<p class="text-uppercase"><strong>[KOREA HQ]</strong><br><strong>NURIE AI Inc</strong>
+        <br>A-2001~2006(A-197), 323, Incheon tower-daero, Yeonsu-gu, Incheon, 22007, Republic of Korea
       </p>
-      <p class="text-uppercase"><strong>NURIE AI Hong Kong Limited</strong>
+      <p class="text-uppercase"><strong>[HONG KONG Office]</strong><br><strong>NURIE AI Hong Kong Limited</strong>
         <br>Suite C, Level 7, World Trust Tower, 50 Stanley St., Central, Hong Kong
       </p>
       """
@@ -498,7 +498,7 @@ id = ""
     pagination_speed = 1000
 
 [params.carouselTestimonials]
-    items = 2
+    items = 3
     auto_play = false
     slide_speed = 2000
     pagination_speed = 1000
@@ -524,8 +524,8 @@ id = ""
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
-    title = "Our Cofounder"
-    subtitle = "[TBD...]"
+    title = "Voice of Customers"
+    # subtitle = "[TBD...]"
 
 [params.see_more]
     enable = false
